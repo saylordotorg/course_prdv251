@@ -1,4 +1,11 @@
-Course Syllabus for "PRDV251: HTML and CSS for Beginners "
+---
+layout: default
+title: "PRDV251: HTML and CSS for Beginners"
+course_description: "This course provides students with an introduction to the core technologies used to communicate information on the Web: Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS)."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "PRDV251: HTML and CSS for Beginners"
 ----------------------------------------------------------
 
 This course provides students with an introduction to the core

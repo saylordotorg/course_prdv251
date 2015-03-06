@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV251: HTML and CSS for Beginners"
+course_description: "This course provides students with an introduction to the core technologies used to communicate information on the Web: Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS)."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Coordinating HTML/CSS-Based Websites with Other Web
 Technologies and Going Live with a New Website** <span id="5"></span> 
 *While we have already learned all of the basics of HTML and CSS and we
